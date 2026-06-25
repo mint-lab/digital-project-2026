@@ -51,14 +51,14 @@
   * Author: 김하형
 * **Emergency Room (ER) Simulator** [[Poster]](https://drive.google.com/file/d/1FNvF9eHr6EliE_jFiVndJsWGxpKs9lIw/view?usp=drive_link) [[Video]](https://drive.google.com/file/d/1EBYg_6MDmHHHwp9leYA6oMdmYPwsh_o1/view?usp=drive_link) 🥇
   * Author: 고병서
+* **Congkak** [[Poster]](https://drive.google.com/file/d/1qkFr-7ShmXwtX2R4AJkFDDEiSJ6LRElv/view?usp=drive_link) [[Video]](https://youtu.be/H9JitY6LGB8?si=JP2juGeyUM6x8BEf)
+  * Author: 이크말
 * **버섯은 커서 뭐가 될까?** [[Poster]](https://drive.google.com/file/d/1YxC--6TWP4gW6kOI4XBXgRwxtHCTwsOX/view?usp=drive_link) [[Video]](https://drive.google.com/file/d/1bbCGeMvFluStdDncSirbW9UiU9c9m-Bf/view?usp=drive_link)
   * Author: 김범서
 * **폭탄 해체 게임** [[Poster]](https://drive.google.com/file/d/1URSygfDJZ3bHvXJsNWewdD5nz5VFnyoN/view?usp=drive_link) [[Video]](https://drive.google.com/file/d/1ndmE7E4X-JxG0s19E1pwoyUtwPv7au0s/view?usp=drive_link)
   * Author: 신대혁
 * **BitQuiz** [[Poster]](https://drive.google.com/file/d/1M9-msr0RYtgQMA5mU-7_0YqJOcraZID0/view?usp=drive_link) [[Video]](https://drive.google.com/file/d/1FdDtoHmaB-3xh8k03VRHMxBfoUNZ6hAP/view?usp=drive_link)
   * Author: 신용우
-* **Congkak** [[Poster]](https://drive.google.com/file/d/1qkFr-7ShmXwtX2R4AJkFDDEiSJ6LRElv/view?usp=drive_link)
-  * Author: 이크말
 * **Slot Machine** [[Poster]](https://drive.google.com/file/d/1zKfVIUHS4cNjs3o6dYbd00jmEYCiSmoa/view?usp=drive_link) [[Video]](https://drive.google.com/file/d/1iq_KxgDek_4OQT_dDs4cqxlAln58GsYQ/view?usp=drive_link)
   * Author: 유지민
 * **Packman** [[Poster]](https://drive.google.com/file/d/1HGMmu4ut5wm0QNdpJk28dOUsYzboluV6/view?usp=drive_link) [[Video]](https://drive.google.com/file/d/1wIMYrdU_WRGx-pBelbTXIu3_2bwRnvek/view?usp=drive_link)
@@ -83,6 +83,9 @@
 ### Games - Reaction
 * **Dino Game** [[Poster]](https://drive.google.com/file/d/11Y9dLnayZVYqe5zXhFGr1DotDUvfw5K1/view?usp=drive_link) [[Video]](https://drive.google.com/file/d/1qi44PfcsgpSPudUzDkCiZHw4WctrjWwm/view?usp=drive_link) 🥇
   * Author: 시티누르아리파
+* **Jump, Jump Forever!** [[Poster]](https://drive.google.com/file/d/1cFC_IAj_4VVQyp7fdzWaKX1lxkl1KrEL/view) [[Video]](https://drive.google.com/file/d/16L95F5F5yg3agFv9yVO9TOE2WhMJfvyD/view) 🥇
+  * Author: 이찬영
+
 * **Ball** [[Poster]](https://drive.google.com/file/d/17xxINBDA9uNK8AtvLd0OLq4sRZBtecf3/view?usp=drive_link) [[Video]](https://drive.google.com/file/d/1GngkpjrIbMGa9FMtDa42UCzmFgTvz5TR/view?usp=drive_link) 🥇
   * Author: 전재균
 * **Tiny Dot Dino Game** [[Poster]](https://drive.google.com/file/d/13fOc_xbqHYaYr-DPPv1haErNcI9zm0uQ/view?usp=drive_link) [[Video]](https://drive.google.com/file/d/1kUv2E5yNl4OZ2Ob0ma-6n_GheyAiwgMz/view?usp=drive_link)
@@ -193,7 +196,7 @@
   * Author: 김재민
 * **무기 강화 시스템** [[Poster]](https://drive.google.com/file/d/1hOJmaJ_Z6GHFFDyI7ATzsSusNLhb6b0q/view?usp=drive_link) [[Video]](https://drive.google.com/file/d/1HGaL2jnhigV_I_69RNSI5yP6sYwchnU3/view?usp=drive_link)
   * Author: 임동원
-* **8-bit Binary Calculator** [[Poster]](https://drive.google.com/file/d/1OiUvNY0UU122XF7t0PHtz6qWzvvS2pSs/view?usp=drive_link)
+* **8-bit Binary Calculator** [[Poster]](https://drive.google.com/file/d/1OiUvNY0UU122XF7t0PHtz6qWzvvS2pSs/view?usp=drive_link) [[YouTube]](https://www.youtube.com/watch?v=nRio0XDDvm0)
   * Author: 닌우루인
 * **Vending Machine** [[Poster]](https://drive.google.com/file/d/1MIltzQ1rfdCVT5fQ7bYvaP42jBGKDzr1/view?usp=drive_link) [[Video]](https://drive.google.com/file/d/1BQhZea6djhQotA17G8yO0XEaBMiTMOxh/view?usp=drive_link)
   * Author: 카마르 마블로스 카티리
